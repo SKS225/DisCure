@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_filled_24"
+        android:id="@+id/home"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="@string/tracking"
+        android:icon="@drawable/baseline_show_chart_24"
+        android:id="@+id/tracking"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"
+        android:id="@+id/profile"
+        app:showAsAction="always"/>
+</menu>

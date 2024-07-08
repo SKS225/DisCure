@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">DisCure</string>
+
+    <string name="web_client_id">99593684623-qv422jv6ibmrjafgn6onuulucmmk56ue.apps.googleusercontent.com</string>
+    <string name="android_client_id">99593684623-7iccah60i1shetk8341j5jvbgpt12me2.apps.googleusercontent.com</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passPhrase">"I have read, understood and I accept and agree to comply with the Terms of Use of EndlessMedicalAPI and Endless Medical services. The Terms of Use are available on endlessmedical.com"</string>
+    <string-array name="menu_items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+    <string name="disclaimer">The results are obtained using the EndlessMedical API and are based upon the current AI model developed by them.</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="signup_ques">Don\'t have an account ?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="back_button">Back Button</string>
+    <string name="picture_uploaded">Picture Uploaded</string>
+    <string name="name">Name</string>
+    <string name="choose_picture">Choose Picture</string>
+    <string name="account">Account</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="notification">Notification</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="made_by">Made with ❤ by sks225dv@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="tracking">Track</string>
+    <string name="cure">Cure</string>
+    <string name="set_reminders_title">Set Reminders...</string>
+    <string name="set_medicine_reminders">Set Medicine Reminders</string>
+    <string name="set_lab_test_reminders">Set Lab Test Reminders</string>
+    <string name="lab_test_booking">Lab Test Booking</string>
+    <string name="track_others">Track Others</string>
+    <string name="track_weight">Track Weight</string>
+    <string name="track_bmi">Track BMI</string>
+    <string name="track_your_health">Track your Health...</string>
+    <string name="user_name">User Name</string>
+
+    <string name="unit">cm</string>
+    <string name="femaletext">Female</string>
+    <string name="age">Age</string>
+    <string name="startingheight">170</string>
+    <string name="startingweight">55</string>
+    <string name="startingage">22</string>
+    <string name="todo">TODO</string>
+    <string name="height">Height</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="weight">Weight</string>
+    <string name="male">Male</string>
+    <string name="user_profile">User Profile</string>
+    <string name="add">add</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="privacyPolicy">
+
+Effective date: June 20, 2024\n
+
+SKS225Developer operates the Discure mobile application (hereinafter referred to as the "Service").\n
+\n
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.\n
+\n
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.\n
+\n
+Information Collection and Use\n
+\n
+We collect several different types of information for various purposes to provide and improve our Service to you.\n
+\n
+Types of Data Collected\n
+\n
+Personal Data: While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:\n
+        Email address\n
+        First name and last name\n
+        Profile Photo\n
+        Cookies and Usage Data\n
+    </string>
+
+    <string name="viewGithub">View on GitHub</string>
+    <string name="reportProblem">Problem Report</string>
+    <string name="viewWebsite">Developer Website</string>
+    <string name="actionSave">Save to Gallery</string>
+
+    <string name="animateX">Animate X</string>
+    <string name="animateY">Animate Y</string>
+    <string name="animateXY">Animate XY</string>
+
+    <string name="actionToggleValues">Toggle Values</string>
+    <string name="actionToggleYValues">Toggle Y-Values</string>
+    <string name="actionToggleXValues">Toggle X-Values</string>
+
+    <string name="actionToggleIcons">Toggle Icons</string>
+    <string name="actionToggleHighlight">Toggle Highlight</string>
+    <string name="actionTogglePinch">Toggle PinchZoom</string>
+    <string name="actionToggleAutoScale">Toggle Auto Scale</string>
+
+    <string name="actionToggleLineValues">Toggle Line Values</string>
+    <string name="actionToggleBarValues">Toggle Bar Values</string>
+    <string name="actionToggleBarBorders">Toggle Bar Borders</string>
+    <string name="actionToggleFilled">Toggle Filled</string>
+    <string name="actionToggleCircles">Toggle Circles</string>
+    <string name="actionToggleCandleShadow">Toggle Shadow Color</string>
+
+    <string name="actionToggleCubic">Toggle Cubic</string>
+    <string name="actionToggleStepped">Toggle Stepped</string>
+    <string name="actionToggleHorizontalCubic">Toggle Horizontal Cubic</string>
+
+    <string name="actionAddEntry">Add Entry</string>
+    <string name="actionFeedMultiple">Add Multiple</string>
+    <string name="actionRemoveEntry">Remove Entry</string>
+    <string name="actionAddDataSet">Add Data Set</string>
+    <string name="actionRemoveDataSet">Remove Data Set</string>
+    <string name="actionClearChart">Clear chart</string>
+
+    <string name="actionTogglePercent">Toggle Percent</string>
+    <string name="actionToggleMinAngles">Toggle Minimum Angles</string>
+    <string name="actionToggleHole">Toggle Hole</string>
+    <string name="actionToggleCurvedSlices">Toggle Curved Slices</string>
+    <string name="actionDrawCenterText">Draw Center Text</string>
+    <string name="actionToggleHighlightCircle">Toggle Highlight Circle</string>
+    <string name="actionToggleRotation">Toggle Rotation</string>
+    <string name="actionToggleSpin">Spin Animation</string>
+
+    <string name="dash">-</string>
+    <string name="scrollViewStart">START OF SCROLLVIEW</string>
+    <string name="scrollViewEnd">END OF SCROLLVIEW</string>
+
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+
+</resources>

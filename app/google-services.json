@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350671189098",
+    "project_id": "dis-cure",
+    "storage_bucket": "dis-cure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350671189098:android:e4b0cbef9839f30dfa8613",
+        "android_client_info": {
+          "package_name": "com.example.discure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuWB0KOnn9YPURkDzIKLOvvzG_O4pyxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
